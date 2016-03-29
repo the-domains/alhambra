@@ -1,0 +1,28 @@
+name: Alhambra
+favicon: null
+layout_spectrum: 0.5946965201292187
+typography_spectrum: 0.5476182424463332
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5254226981196553
+  lightness: 0.49385325075127184
+  saturation: 0.27282130951061845
+  rhythmicContrast: 0.934242854360491
+purpose: []
